@@ -19,7 +19,7 @@
 									<xs:sequence>
 										
 										<!-- Address elements -->
-										<xs:element name="Number" type="xs:integer"/>
+										<xs:element name="Number" type="xs:int"/>
 										<xs:element name="Street" type="xs:string"/>
 										<xs:element name="City" type="xs:string"/>
 										<xs:element name="State" type="xs:string"/>
