@@ -2,6 +2,22 @@
 <NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 			   xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/bensslin/CSE445-Assignment4/refs/heads/main/NationalParks.xsd">
 	
+	<!-- Grand Canyon National Park -->
+	<NationalPark rating="4.9">
+			<Name>Grand Canyon</Name>
+			<Phone>928-638-74960</Phone>
+			<Phone>888-297-2757</Phone>
+			<Phone>866-499-2574</Phone>
+	
+		<Address NearestAirport="FLG">
+			<Number>8</Number>
+			<Street>South Entrance Road</Street>
+			<City>Grand Canyon</City>
+			<State>AZ</State>
+			<Zip>86023</Zip>
+		</Address>
+	</NationalPark>
+	
 	<!-- Yosemite National Park -->
 	<NationalPark rating="4.9">
 			<Name>Yosemite National Park</Name>
